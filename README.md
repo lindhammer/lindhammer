@@ -2,40 +2,24 @@
   <img src="banner.svg" alt="LLH" width="100%" />
 </p>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
-### Music
-
-[llhmusic.com](https://llhmusic.com)
-
-Artist site, discography, and releases. Electronic music released as LLH.
-
-`Eleventy · PostCSS`
-
-    </td>
-    <td width="4%"></td>
-    <td width="50%" valign="top">
-
-### Projects
-
-**Songwriter**
-
-Local workspace for writing lyrics to an instrumental. Phase-by-phase: brief → themes → structure → sections → export. Built because I kept abandoning songs halfway through.
-
-`Next.js · Anthropic · Gemini · SQLite`
-
-**Anchor**
-
-Day planner for low-energy, overwhelmed, or depressive states. Not productivity. Recovery.
-
-`React Native · Expo · Firebase`
-
-    </td>
-
-  </tr>
-</table>
+<table><tr>
+<td width="50%" valign="top">
+<h3>Music</h3>
+<p><a href="https://llhmusic.com">llhmusic.com</a></p>
+<p>Artist site, discography, and releases. Electronic music released as LLH.</p>
+<p><code>Eleventy · PostCSS</code></p>
+</td>
+<td width="4%"></td>
+<td width="50%" valign="top">
+<h3>Projects</h3>
+<p><strong>Songwriter</strong></p>
+<p>Local workspace for writing lyrics to an instrumental. Phase-by-phase: brief → themes → structure → sections → export. Built because I kept abandoning songs halfway through.</p>
+<p><code>Next.js · Anthropic · Gemini · SQLite</code></p>
+<p><strong>Anchor</strong></p>
+<p>Day planner for low-energy, overwhelmed, or depressive states. Not productivity. Recovery.</p>
+<p><code>React Native · Expo · Firebase</code></p>
+</td>
+</tr></table>
 
 ---
 
