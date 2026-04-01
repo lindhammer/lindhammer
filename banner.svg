@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 160" width="100%" role="img" aria-label="LLH — music &amp; tools for making it">
   <defs>
     <!-- Background: linear-gradient(165deg, #1c0a0a 0%, #0d1117 55%) -->
@@ -31,7 +32,7 @@
   <!-- Glow overlay -->
   <rect width="800" height="160" fill="url(#glow)"/>
   <!-- Grain overlay -->
-  <rect width="800" height="160" filter="url(#grain)" opacity="0.04" style="mix-blend-mode: overlay"/>
+  <rect width="800" height="160" filter="url(#grain)" opacity="0.04"/>
   <!-- Bottom hairline (1px) -->
   <rect y="159" width="800" height="1" fill="url(#hairline)"/>
 
