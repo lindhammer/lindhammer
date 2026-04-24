@@ -9,7 +9,6 @@
 <p>Artist site, discography, and releases. Electronic music released as LLH.</p>
 <p><code>Eleventy · PostCSS</code></p>
 </td>
-<td width="4%"></td>
 <td width="50%" valign="top">
 <h3>Projects</h3>
 <p><strong>Songwriter</strong></p>
