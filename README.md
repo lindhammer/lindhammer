@@ -3,13 +3,13 @@
 </p>
 
 <table><tr>
-<td width="50%" valign="top">
+<td width="35%" valign="top">
 <h3>Music</h3>
 <p><a href="https://llhmusic.com">llhmusic.com</a></p>
 <p>Artist site, discography, and releases. Electronic music released as LLH.</p>
 <p><code>Eleventy · PostCSS</code></p>
 </td>
-<td width="50%" valign="top">
+<td width="65%" valign="top">
 <h3>Projects</h3>
 <p><strong>Songwriter</strong></p>
 <p>Local workspace for writing lyrics to an instrumental. Phase-by-phase: brief → themes → structure → sections → export. Built because I kept abandoning songs halfway through.</p>
@@ -17,6 +17,7 @@
 <p><strong>Anchor</strong></p>
 <p>Day planner for low-energy, overwhelmed, or depressive states. Not productivity. Recovery.</p>
 <p><code>React Native · Expo · Firebase</code></p>
+<p></p>
 </td>
 </tr></table>
 
