@@ -7,9 +7,9 @@ I don't have a formal background in software development. What I have is a struc
 
 ---
 
-[lindhammer.com](https://lindhammer.com) — portfolio and selected work
-[llhmusic.com](https://llhmusic.com) — music project LLH
-[Spotify](https://open.spotify.com/artist/4dPLkakRF7qLklrsetNCvE) — four albums, all written and produced by me
+- [lindhammer.com](https://lindhammer.com) — portfolio and selected work
+- [llhmusic.com](https://llhmusic.com) — music project LLH
+- [Spotify](https://open.spotify.com/artist/4dPLkakRF7qLklrsetNCvE) — four albums, all written and produced by me
 
 ---
 
