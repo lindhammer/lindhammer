@@ -2,7 +2,7 @@
   <title>Luis Lindhammer — Developer &amp; Designer</title>
   <desc>Banner for Luis Lindhammer's GitHub profile</desc>
   <style>
-    .bg { fill: #e9e9e6; }
+    .bg { fill: #ccd1d3; }
     .name { fill: #111111; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; font-size: 64px; font-weight: 500; letter-spacing: -0.045em; }
     .sub { fill: #6b6b66; font-family: ui-monospace, "SF Mono", Menlo, Consolas, monospace; font-size: 12px; letter-spacing: 0.08em; text-transform: uppercase; }
     .accent { fill: none; stroke: #4a7060; }
