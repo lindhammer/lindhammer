@@ -124,6 +124,21 @@
         letter-spacing: -0.035em;
         margin: 0 0 32px;
       }
+      .name-link {
+        border-bottom: none;
+        padding-bottom: 0;
+        background-image: linear-gradient(var(--accent), var(--accent));
+        background-size: 0% 2px;
+        background-repeat: no-repeat;
+        background-position: left bottom 0px;
+        transition:
+          background-size 320ms ease,
+          color 120ms ease;
+      }
+      .name-link:hover {
+        color: var(--accent);
+        background-size: 100% 2px;
+      }
       .hero .lede {
         font-weight: 400;
         font-size: clamp(18px, 1.7vw, 22px);
@@ -398,7 +413,16 @@
 
     <header class="shell hero">
       <div class="label reveal">— Index / Portfolio</div>
-      <h1 class="reveal">Luis Lindhammer</h1>
+      <h1 class="reveal">
+        Luis A.
+        <a
+          href="https://github.com/lindhammer"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="name-link"
+          >Lindhammer</a
+        >
+      </h1>
       <p class="lede reveal">
         Developer &amp; designer based in Germany. I build tools that solve real
         problems — using <em>AI-assisted workflows</em>, modern web stacks, and
